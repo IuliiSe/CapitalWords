@@ -1,7 +1,7 @@
 {
-  "name": "word-finder",
-  "version": "0.0.4-28",
-  "description": "A website that will help you with 'Whats the Phrase' and 'Words With Friends'",
+  "name": "capital-words",
+  "version": "0.0.1",
+  "description": "A website that searches for Capital Words using the Sunlight API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
