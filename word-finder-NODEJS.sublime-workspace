@@ -1,0 +1,750 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"text",
+				"text-align-last"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"align",
+				"text-align:   (property)"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"backgrond",
+				"background-color:   (property)"
+			],
+			[
+				"t",
+				"tmTheme"
+			],
+			[
+				"Color",
+				"color_scheme"
+			],
+			[
+				"C",
+				"color_scheme"
+			],
+			[
+				"b",
+				"button	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Procfile",
+			"settings":
+			{
+				"buffer_size": 20,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 523,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"Pac",
+				"Package Control: List Packages"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"f",
+				"Fetch: File"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"Fet",
+				"Fetch: Package"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"emm",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"Fetch",
+				"Fetch: File"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"SF",
+				"SFTP: Browse Server…"
+			],
+			[
+				"Book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"Bo",
+				"Bookmarks: Select All"
+			],
+			[
+				"Fe",
+				"Fetch: Package"
+			],
+			[
+				"Pak",
+				"Package Control: Install Package"
+			],
+			[
+				"Flo",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"Paa",
+				"Package Control: List Packages"
+			],
+			[
+				"Fetc",
+				"Fetch: Manage"
+			],
+			[
+				"",
+				"Fetch: File"
+			],
+			[
+				"bo",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"Git",
+				"Git: Init"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"F",
+				"Fetch: Manage"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 304.0,
+		"history":
+		[
+			"print 'hello';",
+			"print \"hello\"",
+			"set class",
+			"set",
+			"pythong",
+			"man",
+			"help",
+			"--h",
+			"--help",
+			"-help",
+			"-v",
+			"–v",
+			"-v",
+			"-- help",
+			"--help",
+			"--h",
+			"python help",
+			"python",
+			"help",
+			"var int i = 3;",
+			"var i = 2;",
+			"ls",
+			"man",
+			"help",
+			"man",
+			"help",
+			"help()",
+			"help",
+			"ls",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Andrew/Sites/Apps/word-finder",
+		"/Users/Andrew/Sites/Apps/word-finder/config",
+		"/Users/Andrew/Sites/Apps/word-finder/lib",
+		"/Users/Andrew/Sites/Apps/word-finder/public",
+		"/Users/Andrew/Sites/Apps/word-finder/specs",
+		"/Users/Andrew/Sites/Apps/word-finder/views"
+	],
+	"file_history":
+	[
+		"/Users/Andrew/Sites/Personal/HackAThon/thecyanline.com/TheCyanLine/index.html",
+		"/Users/Andrew/Sites/Personal/HackAThon/thecyanline.com/TheCyanLine/css/main.css",
+		"/Users/Andrew/Sites/Personal/HackAThon/thecyanline.com/TheCyanLine/README.md",
+		"/Users/Andrew/JAC Creative/Clients/Eaton - E/E - Powerblock/PowerBlocks/styles/scss/partials/_typography.scss",
+		"/Users/Andrew/JAC Creative/Clients/Eaton - E/E - Powerblock/PowerBlocks/styles/scss/partials/_modal.scss",
+		"/Users/Andrew/JAC Creative/Clients/Eaton - E/E - Powerblock/PowerBlocks/scripts/app.js",
+		"/Users/Andrew/JAC Creative/Clients/Eaton - E/E - Powerblock/PowerBlocks/index.html",
+		"/Users/Andrew/JAC Creative/Clients/Eaton - E/E - Powerblock/PowerBlocks/scripts/powerblocks.json",
+		"/Users/Andrew/JAC Creative/Clients/Eaton - E/E - Powerblock/PowerBlocks/styles/scss/partials/_sidebar.scss",
+		"/Users/Andrew/JAC Creative/Clients/Eaton - E/E - Powerblock/PowerBlocks/styles/scss/main.scss",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Andrew/JAC Creative/Clients/Eaton - E/E - Powerblock/PowerBlocks/.gitignore",
+		"/Users/Andrew/JAC Creative/Clients/Eaton - E/E - Powerblock/PowerBlocks/css/style.css",
+		"/Users/Andrew/Sites/Personal/JavaScript/playground.js/index.html",
+		"/Users/Andrew/Sites/Personal/JavaScript/playground.js/underscore.js",
+		"/Users/Andrew/Sites/Personal/JavaScript/playground.js/index.php",
+		"/Users/Andrew/Sites/Personal/PixelABet/pixelabet.wordpress/wp-config.php",
+		"/Users/Andrew/Sites/Personal/PixelABet/pixelabet.com/index.html",
+		"/Users/Andrew/Sites/Personal/PixelABet/pixelabet.com/css/style.css",
+		"/Users/Andrew/Sites/Personal/PixelABet/sftp-config.json",
+		"/Users/Andrew/Sites/Personal/PixelABet/pixelabet.sublime-project",
+		"/Users/Andrew/JAC Creative/Clients/Steel Drums Unlimited - SDU/SDU - Website/steeldrumsunlimited.wordpress/wp-config.php",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.wordpress/.htaccess",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.wordpress/wp-config.php",
+		"/Users/Andrew/Documents/Node/Win/http_uc.js",
+		"/Users/Andrew/Documents/Node/Win/http_juggle.js",
+		"/Users/Andrew/Documents/Node/Examples/web.js",
+		"/Users/Andrew/Sites/Personal/andrewsobotka.markup/assets/css/style.scss",
+		"/Users/Andrew/Sites/Personal/andrewsobotka.markup/Build/andrewsobotka.markup.sublime-project",
+		"/Users/Andrew/Sites/Personal/andrewsobotka.markup/.gitignore",
+		"/Users/Andrew/Library/Application Support/TeamSpeak 3/soundboardframe.ini",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.markup/jaccreative.markup.sublime-project",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.markup/assets/css/reset.css",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.markup/assets/js/respond.js",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.markup/assets/js/modernizr.custom.81952.js",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.sublime-project",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.wordpress/index.php",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.markup/assets/css/normalize.css",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.markup/assets/js/jquery-1.8.3.min.js",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.markup/Build/assets/css/style.css",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.markup/Build/assets/js/app.js",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.markup/assets/js/app.js",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.markup/Build/assets/js/jquery-1.8.3.min.js",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.markup/Build/assets/css/normalize.css",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.markup/Build/index.html",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.design/index.php",
+		"/Users/Andrew/JAC Creative/Clients/JAC Creative - JAC/JAC - Website/jaccreative.markup/index.php",
+		"/Users/Andrew/Desktop/hello.py",
+		"/Users/Andrew/Cassel Bear/Clients/Pleasant Wealth - PW/PW - Website/PW - Website Development/Calculators/_mortgage-calculator.html",
+		"/Users/Andrew/Cassel Bear/Clients/Pleasant Wealth - PW/PW - Website/PW - Website Development/Calculators/_simple-savings-calculator.html",
+		"/Users/Andrew/Cassel Bear/Clients/E-Tank - ETK/ETK - Website/etank.markup/includes/_nav.html",
+		"/Users/Andrew/Cassel Bear/Clients/E-Tank - ETK/ETK - Website/etank.markup/.gitignore",
+		"/Users/Andrew/Cassel Bear/Clients/E-Tank - ETK/ETK - Website/etank.wordpress/index.php",
+		"/Users/Andrew/Cassel Bear/Clients/Pleasant Wealth - PW/PW - Website/2014 Website/pleasantwealth.loc/stylesheets/_settings.scss",
+		"/Users/Andrew/Cassel Bear/Clients/Pleasant Wealth - PW/PW - Website/2014 Website/pleasantwealth.loc/pleasantwealth.sublime-project",
+		"/Users/Andrew/Cassel Bear/Clients/Pleasant Wealth - PW/PW - Website/2014 Website/pleasantwealth.loc/.gitignore.save",
+		"/Users/Andrew/Cassel Bear/Clients/Pleasant Wealth - PW/PW - Website/2014 Website/pleasantwealth.loc/.gitignore",
+		"/Library/Keychains/apsd.keychain",
+		"/Users/Andrew/JAC Creative/Sites/responsive/Responsive/index.html",
+		"/Applications/Hammer.app/Contents/_CodeSignature/CodeResources",
+		"/Users/Andrew/The Cyan Line/Clients/Pixel A Bet/Website/Pixel A Bet/assets/css/style.scss",
+		"/Users/Andrew/The Cyan Line/Clients/Pixel A Bet/Website/Pixel A Bet/includes/_slider.html",
+		"/Users/Andrew/The Cyan Line/Clients/Pixel A Bet/Website/Pixel A Bet/includes/_nav.html",
+		"/Users/Andrew/The Cyan Line/Clients/Pixel A Bet/Website/Pixel A Bet/includes/_footer.html",
+		"/Users/Andrew/The Cyan Line/Clients/Pixel A Bet/Website/Pixel A Bet/includes/_header.html",
+		"/Users/Andrew/The Cyan Line/Clients/Pixel A Bet/Website/Pixel A Bet/index.html",
+		"/Applications/MAMP/bin/mamp/mamp.conf.json",
+		"/Users/Andrew/Sync/sftp-test/sftp-config.json",
+		"/Users/Andrew/Cassel Bear/Clients/Cassel Bear/Web/casselbear.com/.htaccess",
+		"/Users/Andrew/Cassel Bear/Clients/Cassel Bear/Web/casselbear.com/assets/themes/casselbear/js/html5.js",
+		"/Users/Andrew/Cassel Bear/Clients/Cassel Bear/Web/casselbear.com/wp-config.php",
+		"/Users/Andrew/Cassel Bear/Clients/Cassel Bear/Web/casselbear.com/index.php",
+		"/Users/Andrew/Sites/andrewsobtka.com/index.php",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/SFTP/andrewsobotka.com",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/Andrew/Pictures/Interwebs/reddit/16-Bit-Jesus.jpg",
+		"/Users/Andrew/JAC Creative/!House/WordPress Themes/infinitythemetrust/functions.php",
+		"/Users/Andrew/Sites/Themer/assets/themes/tutorial/style.css",
+		"/Users/Andrew/Sites/Themer/assets/themes/tutorial/footer.php",
+		"/Users/Andrew/Sites/Themer/assets/themes/tutorial/header.php",
+		"/Users/Andrew/Sites/Themer/assets/themes/tutorial",
+		"/Users/Andrew/Sites/Themer/wp-config.php",
+		"/Users/Andrew/Sites/Themer/index.php",
+		"/Users/Andrew/Cassel Bear/Clients/Cassel Bear/Web/new.casselbear.com/assets/css/helpers.css",
+		"/Users/Andrew/JAC Creative/Floobits/testing.html",
+		"/Users/Andrew/floobits/welcome.md",
+		"/Users/Andrew/Documents/JavaScript Library/MomentJS/moment.js",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/DashDoc/DashDoc.sublime-settings",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/DashDoc/Default (OSX).sublime-keymap",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/Users/Andrew/Documents/Game Development/tutsplus-tutorial/index.html",
+		"/Users/Andrew/Documents/Game Development/tutsplus-tutorial/js/box2dutils.js",
+		"/Users/Andrew/Documents/Game Development/tutsplus-tutorial/js/box2d/game.js",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Andrew/Cassel Bear/Clients/E-Tank/Website/Etank/index.html",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/Andrew/Cassel Bear/Clients/E-Tank/Website/Etank/partials/_variables.html",
+		"/Users/Andrew/Sync/Sites/Cassel Bear/new.casselbear.com/markup/index.html",
+		"/Users/Andrew/Cassel Bear/Clients/Cassel Bear/Web/new.casselbear.com/index.haml",
+		"/Users/Andrew/Cassel Bear/Clients/Cassel Bear/Web/new.casselbear.com/assets/css/layout.css",
+		"/Users/Andrew/Sites/HTML5/index.html",
+		"/Users/Andrew/Sites/pixelabet.com/converted-html/index.html",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/Andrew/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/Andrew/Cassel Bear/Clients/E-Tank/Website/Etank/css/_config.scss",
+		"/Users/Andrew/Downloads/malarkey-Rock-Hammer-7e5ecc6/README.md",
+		"/Users/Andrew/The Cyan Line/Clients/Pixel A Bet/templates/layouts/layout.liquid",
+		"/Users/Andrew/The Cyan Line/Clients/Pixel A Bet/templates/index.liquid",
+		"/Users/Andrew/Sites/VM/localhost/index.php",
+		"/Users/Andrew/Library/Application Support/Steam/SteamApps/common/Tom Clancy's Splinter Cell Conviction/Tom Clancy's Splinter Cell Conviction.app/Bin/SYSTEM/Conviction.ini",
+		"/Users/Andrew/Library/Application Support/Steam/SteamApps/common/Tom Clancy's Splinter Cell Conviction/Tom Clancy's Splinter Cell Conviction.app/Bin/SYSTEM/ConvictionUserPC.ini",
+		"/Users/Andrew/Library/Application Support/Steam/SteamApps/common/Tom Clancy's Splinter Cell Conviction/Tom Clancy's Splinter Cell Conviction.app/Bin/SYSTEM/ConvictionUser.ini",
+		"/Users/Andrew/Library/Application Support/Overgrowth/Data/config.txt",
+		"/Users/Andrew/Sites/VM/badassfacts/index.php",
+		"/Users/Andrew/Library/Application Support/Steam/SteamApps/common/Starbound/assets/songs/nevergonnagiveyouup.abc",
+		"/Users/Andrew/Library/Application Support/Steam/SteamApps/common/Starbound/Starbound.app/Contents/MacOS/bootstrap.config",
+		"/Users/Andrew/Library/Application Support/Steam/SteamApps/common/Starbound/assets/songs/Canon In D.abc",
+		"/Users/Andrew/Library/Application Support/Steam/SteamApps/common/Starbound/assets/hunger.config",
+		"/Users/Andrew/Library/Application Support/Steam/SteamApps/common/Starbound/assets/merchant.config",
+		"/Users/Andrew/Library/Application Support/Steam/SteamApps/common/Starbound/assets/default_configuration.config",
+		"/Applications/MAMP/bin/mamp/English/index.php",
+		"/Users/Andrew/Sites/VM/wordpress/wp-config.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"blur",
+			"onReady",
+			"sound",
+			"  ",
+			"    ",
+			"li",
+			"comments",
+			"add_action",
+			"ttrust_scripts",
+			"add_action",
+			"TEMPLATEPATH",
+			"navigation-toggle",
+			"div",
+			"style",
+			"Primary",
+			"colour",
+			"color",
+			"!",
+			"en-iso-8859-1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"music",
+			"\\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Procfile",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 20,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 350.0
+	},
+	"project": "word-finder-NODEJS.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
